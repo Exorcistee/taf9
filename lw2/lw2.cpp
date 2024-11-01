@@ -692,7 +692,7 @@ void PrintTable(std::vector<std::vector<std::string>> table, std::ostream& outpu
 	{
 		for (size_t j = 0; j < table[i].size(); j++)
 		{
-			output << table[i][j] << ';';
+			output << table[i-1][j] << ';';
 		}
 		output << '\n';
 	}
