@@ -1,0 +1,7 @@
+﻿  DetermineNFA.cpp
+C:\Users\Siblade\Documents\GitHub\taf9\lw42\DetermineNFA.cpp(37,58): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Siblade\Documents\GitHub\taf9\lw42\DetermineNFA.cpp(69,77): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Siblade\Documents\GitHub\taf9\lw42\DetermineNFA.cpp(167,86): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Siblade\Documents\GitHub\taf9\lw42\DetermineNFA.cpp(181,82): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Siblade\Documents\GitHub\taf9\lw42\DetermineNFA.cpp(352,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  lw42.vcxproj -> C:\Users\Siblade\Documents\GitHub\taf9\lw42\x64\Debug\lw42.exe
