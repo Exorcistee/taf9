@@ -3,7 +3,7 @@ project(DetermineNFA)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(DetermineNFA main.cpp
+add_executable(DetermineNFA
         DetermineNFA.h
         DetermineNFA.cpp
 )
