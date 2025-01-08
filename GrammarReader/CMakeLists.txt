@@ -9,7 +9,7 @@ set(CMAKE_CXX_STANDARD 11)
 #добавление исходных файлов
 set(SOURCE_FILES
 	
-	GrammarReader.cpp
+	lw3.cpp
 	GrammarReader.h
 )
 
