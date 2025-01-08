@@ -1,0 +1,117 @@
+﻿  lw3.cpp
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(12,9): error C3646: FinaleState: неизвестный спецификатор переопределения
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(12,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(13,15): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(13,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(13,64): error C2238: непредвиденные лексемы перед ";"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(16,12): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(16,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "join"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(16,65): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(16,65): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(27,7): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(27,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(27,7): error C2059: синтаксическая ошибка: <
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(28,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(28,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(46,7): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(46,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(46,1): error C2086: int vector: переопределение
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(27,1): message : см. объявление "vector"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(46,7): error C2059: синтаксическая ошибка: <
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(47,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(47,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(85,39): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(85,39): error C2143: синтаксическая ошибка: отсутствие "," перед "<"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(89,2): error C2065: regex: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(89,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "startsWithNonterminal"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(89,8): error C3861: startsWithNonterminal: идентификатор не найден
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(91,2): error C2065: regex: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(91,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "endsWithNonterminal"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(91,8): error C3861: endsWithNonterminal: идентификатор не найден
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(93,19): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(93,19): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(93,26): error C2530: line: ссылки должны быть инициализированы
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(93,26): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(93,28): error C2065: lines: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(93,33): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(95,18): error C2065: parts: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(95,9): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(97,14): error C2825: string: должен представлять класс или пространство имен с последующим "::"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(97,22): error C2510: string: выражение слева от "::" должно быть классом, структурой или объединением
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(97,22): error C2065: npos: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(99,10): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "lhs"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(99,10): error C2065: lhs: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(100,10): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "rhs"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(100,10): error C2065: rhs: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(103,3): error C2065: lhs: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(103,13): error C2065: lhs: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(103,34): error C2065: lhs: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(103,47): error C2065: lhs: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(103,26): error C3861: find_if: идентификатор не найден
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(106,3): error C2065: lhs: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(106,21): error C2065: lhs: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(106,35): error C2065: lhs: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(106,13): error C3861: find_if: идентификатор не найден
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(108,15): error C2065: lhs: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(110,3): error C2065: rhs: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(110,13): error C2065: rhs: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(110,34): error C2065: rhs: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(110,47): error C2065: rhs: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(110,26): error C3861: find_if: идентификатор не найден
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(113,3): error C2065: rhs: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(113,21): error C2065: rhs: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(113,35): error C2065: rhs: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(113,13): error C3861: find_if: идентификатор не найден
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(115,15): error C2065: rhs: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(118,18): error C2065: productions: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(118,9): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(120,10): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "delimiter"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(120,10): error C2065: delimiter: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(121,10): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "token"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(121,10): error C2065: token: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(122,26): error C2065: rhs: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(122,35): error C2065: delimiter: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(122,50): error C2825: string: должен представлять класс или пространство имен с последующим "::"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(122,58): error C2510: string: выражение слева от "::" должно быть классом, структурой или объединением
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(122,58): error C2065: npos: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(123,4): error C2065: token: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(123,12): error C2065: rhs: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(124,4): error C2065: productions: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(124,26): error C2065: token: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(125,4): error C2065: rhs: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(125,32): error C2065: delimiter: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(127,3): error C2065: productions: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(127,25): error C2065: rhs: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(130,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(130,20): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(130,33): error C2530: production: ссылки должны быть инициализированы
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(130,33): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(130,35): error C2065: productions: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(130,46): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(131,32): error C2065: startsWithNonterminal: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(131,8): error C3861: regex_match: идентификатор не найден
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(134,32): error C2065: endsWithNonterminal: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(134,8): error C3861: regex_match: идентификатор не найден
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(142,3): error C2065: grammar: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(145,3): error C2065: grammar: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(148,3): error C2065: grammar: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(152,6): error C2182: "ParseLeftHandedGrammar": недопустимое использование "void"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(152,45): error C2065: statesGrammar: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(152,35): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(152,60): error C2059: синтаксическая ошибка: const
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(152,107): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(152,107): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(226,6): error C2182: "ParseRightHandedGrammar": недопустимое использование "void"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(226,46): error C2065: statesGrammar: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(226,36): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(226,61): error C2059: синтаксическая ошибка: const
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(226,108): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(226,108): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(274,30): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(274,30): error C2143: синтаксическая ошибка: отсутствие "," перед "<"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(275,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "initState"
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(275,9): error C2065: initState: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(276,6): error C2065: grammar: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(278,3): error C2065: initState: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(280,11): error C2065: grammar: необъявленный идентификатор
+C:\Users\Siblade\Documents\GitHub\taf9\lw3\lw3.cpp(280,10): fatal  error C1003: число ошибок превышает 100; остановка компиляции
