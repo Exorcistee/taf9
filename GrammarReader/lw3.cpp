@@ -1,4 +1,4 @@
-﻿#include "GrammarReader.h"
+#include "GrammarReader.h"
 
 enum class GrammarType {
 	Undefined,
@@ -155,6 +155,8 @@ void ParseLeftHandedGrammar(vector<string>& statesGrammar, const vector<string>&
 
 	wregex grammarPatternLR(LR"(^\s*<(\w+)>\s*->\s*((?:<\w+>\s+)?[\wε](?:\s*\|\s*(?:<\w+>\s+)?[\wε])*)\s*$)");
 
+	statesGrammar.push_back("H");
+	
 	for (const string& line : lines)
 	{
 		wstring_convert<codecvt_utf8_utf16<wchar_t>> converter;
@@ -214,10 +216,10 @@ void ParseLeftHandedGrammar(vector<string>& statesGrammar, const vector<string>&
 			if (grammar.Productions[nextState].find(symbol) == grammar.Productions[nextState].end()) {
 				grammar.Productions[nextState][symbol] = vector<string>();
 			}
-			if (nextState == "H")
-			{
-				statesGrammar.insert(statesGrammar.begin(), nextState);
-			}
+			//if (nextState == "H")
+			//{
+			//	statesGrammar.insert(statesGrammar.begin(), nextState);
+			//}
 			grammar.Productions[nextState][symbol].push_back(state);
 		}
 	}
