@@ -9,8 +9,8 @@ set(CMAKE_CXX_STANDARD 11)
 #добавление исходных файлов
 set(SOURCE_FILES
 	
-	src/GrammarReader.cpp
-	src/GrammarReader.h
+	GrammarReader.cpp
+	GrammarReader.h
 )
 
 #добавление исполняемого файла
