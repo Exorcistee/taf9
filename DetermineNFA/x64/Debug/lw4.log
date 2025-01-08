@@ -1,3 +1,0 @@
-﻿  lw4.cpp
-C:\Users\Siblade\Documents\GitHub\taf9\lw4\lw4.cpp(204,9): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-  lw4.vcxproj -> C:\Users\Siblade\Documents\GitHub\taf9\lw4\x64\Debug\lw4.exe
